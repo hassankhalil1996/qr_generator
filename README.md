@@ -18,6 +18,7 @@ A simple command-line tool to generate a QR code from a URL and save it as both 
    ```bash
    git clone https://github.com/hassankhalil1996/qr_generator.git
 2. Install dependencies:
+   ```bash
    npm install inquirer qr-image
 3. Run the script:
    node index.js
